@@ -33,11 +33,10 @@ on:
       REMOVALS:
         description: "Folders to be removed before syncing:"
         required: false
-        default: "vendor/qcom/opensource/audio-hal/st-hal"
       LOCAL_MANIFEST:
         description: "Personal local manifest [repository or raw]:"
         required: true
-        default: 'https://github.com/bagaskara815/local_manifests'
+        default: 'https://github.com/zackyape/local_manifests'
       LOCAL_MANIFEST_BRANCH:
         description: "Personal local manifest's branch:"
         required: false
