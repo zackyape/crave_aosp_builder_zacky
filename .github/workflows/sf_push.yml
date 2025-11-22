@@ -9,11 +9,11 @@ on:
       SF_USERNAME:
         description: "SourceForge username"
         required: true
-        default: 'bagaskara815'
+        default: 'zsheesh'
       SF_PROJECT_NAME:
         description: "SourceForge project name"
         required: true
-        default: 'nangis'
+        default: 'AOSP'
       SF_TARGET_FOLDER:
         description: "SourceForge project folder"
         required: false
